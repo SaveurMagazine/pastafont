@@ -3,6 +3,6 @@
 
 To use <i>Aldentica</i>, download the ttf- or otf-file from above. 
 <br>
-Illustrated by Alex Testere
 
+Illustrated by Alex Testere
 Designed by Alex Testere & Pauliina Siniauer
