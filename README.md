@@ -1,9 +1,7 @@
 <b>Life is better with a pasta font. </b>
 <br>
-<br>
 
 To use <i>Aldentica</i>, download the ttf- or otf-file from above. 
-
 <br>
 Illustrated by Alex Testere
 
